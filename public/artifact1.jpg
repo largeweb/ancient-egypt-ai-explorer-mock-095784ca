@@ -1,0 +1,7 @@
+/*
+  public/artifact1.jpg
+
+  This file is a JPEG image of a sarcophagus with dimensions 600x400 and 72 DPI resolution.
+  It's used on the artifact-identifier page to simulate the selection of an artifact image.
+  The image should scale down appropriately on mobile devices.
+*/
